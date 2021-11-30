@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T07:41:33.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="mDJHyv0vMYjoCxF2P-QZ" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T09:26:20.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="rf0cFTyXdoPa98_UeZ4w" version="15.8.7" type="github">
   <diagram id="0DHabs0GE1NaI--FJ0iT" name="Page-1">
     <mxGraphModel dx="2062" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -166,6 +166,24 @@
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-51" value="Parameters are not monitored or controlled as these parameters are chosen base on intensity, coverage required and machine setup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="490" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-55" value="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-57" value="What can DSE do/further research and develop?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="770" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-56" value="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="800" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

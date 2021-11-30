@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T09:54:31.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="I4FtMzM2_XtLT8ZJTk1w" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T09:55:08.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="S-9j3v8rh5SvtL92HqJn" version="15.8.7" type="github">
   <diagram id="0DHabs0GE1NaI--FJ0iT" name="Page-1">
     <mxGraphModel dx="2912" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -171,13 +171,13 @@
           <mxGeometry x="10" y="480" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-61" value="The operator knows that (usually an existing database) for the desired intensity, certain pressure and media flow rate is required. Ignoring media flow rate, stable pressure = stable intensity.&lt;br&gt;&lt;br&gt;*assuming that there is no PID control for pressure*&lt;br&gt;Since intensity usually has an acceptable tolerance i.e +/- 0.01mmA. what would be the corresponding pressure tolerance for different media types and nozzle. If the peening process&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;align=left;" vertex="1" parent="1">
-          <mxGeometry x="30" y="810" width="790" height="110" as="geometry" />
+          <mxGeometry x="30" y="650" width="790" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lZUB57I9a2jBkrmypfUn-57" value="What can DSE do/further research and develop?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="770" width="270" height="20" as="geometry" />
+        <mxCell id="lZUB57I9a2jBkrmypfUn-57" value="What can DSE do/further research and develop? Ideas here are low level solution, or immediate next steps" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="600" width="580" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-56" value="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="20" y="800" width="20" height="20" as="geometry" />
+          <mxGeometry x="20" y="640" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-580" y="-600" width="120" height="60" as="geometry" />

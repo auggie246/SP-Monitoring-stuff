@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T07:34:21.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Vvk8WWuSWZAQ7oBueIO5" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T07:41:04.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zqeZrBbrtbsO8JDpz9am" version="15.8.7" type="github">
   <diagram id="0DHabs0GE1NaI--FJ0iT" name="Page-1">
     <mxGraphModel dx="2062" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,6 +13,9 @@
         <mxCell id="lZUB57I9a2jBkrmypfUn-1" value="Intensity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lZUB57I9a2jBkrmypfUn-2" target="lZUB57I9a2jBkrmypfUn-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-2" value="Pressure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="370" width="90" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-3" value="Internal parameters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZUB57I9a2jBkrmypfUn-5" target="lZUB57I9a2jBkrmypfUn-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-5" value="Media flow rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="370" width="90" height="60" as="geometry" />
@@ -37,8 +43,14 @@
         <mxCell id="lZUB57I9a2jBkrmypfUn-9" value="External parameters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZUB57I9a2jBkrmypfUn-11" target="lZUB57I9a2jBkrmypfUn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-11" value="Impingement Angle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZUB57I9a2jBkrmypfUn-12" target="lZUB57I9a2jBkrmypfUn-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-12" value="Standoff distance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="370" width="70" height="60" as="geometry" />
@@ -85,17 +97,56 @@
         <mxCell id="lZUB57I9a2jBkrmypfUn-16" value="Not adjustable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="260" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZUB57I9a2jBkrmypfUn-18" target="lZUB57I9a2jBkrmypfUn-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-18" value="Nozzle and hose wear" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="370" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-19" value="Hose length and size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lZUB57I9a2jBkrmypfUn-20" target="lZUB57I9a2jBkrmypfUn-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-20" value="Media condition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="370" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZUB57I9a2jBkrmypfUn-21" value="Media size and hardness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="370" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="460" as="sourcePoint" />
+            <mxPoint x="840" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint" />
+            <mxPoint x="840" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-36" value="Efforts to monitor and maintain intensity directly/indirectly" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry y="460" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-37" value="Pressure sensors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-39" value="Media valve (closed-loop)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="490" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-42" value="Precise robot programming and regular checks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-47" value="Media check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="490" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-49" value="Preventive maintenance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="490" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZUB57I9a2jBkrmypfUn-51" value="Parameters are not monitored or controlled as these parameters are chosen base on intensity, coverage required and machine setup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
